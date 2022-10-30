@@ -1,0 +1,18 @@
+
+body{*{
+	margin:0 ;
+	padding:0 ;
+	box-sizing:0 ;
+}
+
+	background-color: lightblue ;
+}
+div{
+	width: 60%;
+	margin: auto;
+}
+img{
+	max-width: 500px;
+	height: auto;
+	display: block;
+}
